@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "5ccb0bb0b0145474",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b64c7e6f8b95c95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ashes of Vaire/Species/Vairan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7873c986d01756ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ashes of Vaire/Characters/Star Ala.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6821ae5167da89c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ashes of Vaire/History.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a3bb4ec6a5137fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5a2a61e7192f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e545d80b0320eefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a508060a67dc925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 167.5
+  },
+  "right": {
+    "id": "f54e6aa5c89de4f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "66751de19e4c19bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00482b328a466d0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ashes of Vaire/Species/Vairan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8213f99c8cd893ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ashes of Vaire/Species/Vairan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e545d80b0320eefa",
+  "lastOpenFiles": [
+    "Ashes of Vaire/Characters/Star Ala.md",
+    "Ashes of Vaire/Species/Vairan.md",
+    "Ashes of Vaire/Basic Rules.md",
+    "Ashes of Vaire/History.md",
+    "Ashes of Vaire/Session Notes/Session 3.md",
+    "Ashes of Vaire/Species/Hykqin.md",
+    "Ashes of Vaire/Session Notes/Previous Sessions.md",
+    "Ashes of Vaire/Transit Drive.md",
+    "Ashes of Vaire/Species/Species.md",
+    "Ashes of Vaire/Species/Human.md"
+  ]
+}
