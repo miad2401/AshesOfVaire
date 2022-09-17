@@ -1,0 +1,2 @@
+# Engineer
+You know how machines work, and you know how to put together contraptions that will work *most of the time*. You can repair androids on a long rest, and you can craft weapons from the weapons list on short rests.

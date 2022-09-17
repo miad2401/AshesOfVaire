@@ -1,0 +1,1 @@
+Star saw all the military ships in orbit begin leaving for the system exit. She missed the last transport out and was left behind. She sees the president of the vairan union come out of the spaceport and stands at attention. She meets the party and joins with the permission of the president.
